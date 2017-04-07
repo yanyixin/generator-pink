@@ -1,13 +1,9 @@
 {
   "name": "generator-pink",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "闫萌的angular脚手架",
-  "homepage": "",
-  "author": {
-    "name": "YanMeng",
-    "email": "ymfighting1@163.com",
-    "url": "https://github.com/yanyixin"
-  },
+  "homepage": "https://github.com/yanyixin/generator-pink#readme",
+  "author": "YanMeng <ymfighting1@163.com> (https://github.com/yanyixin)",
   "files": [
     "generators"
   ],
@@ -46,6 +42,12 @@
       "node": true
     }
   },
-  "repository": "yanyixin/generator-pink",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyixin/generator-pink.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanyixin/generator-pink/issues"
+  }
 }

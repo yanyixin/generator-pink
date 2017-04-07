@@ -1,7 +1,7 @@
 {
-  "name": "<%= projectName %>",
+  "name": "angular2-dream",
   "version": "1.0.0",
-  "description": "<%= description %>",
+  "description": "Hello Angular2",
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.js --progress",
     "test": "karma start",
@@ -11,10 +11,9 @@
   },
   "keywords": [
     "angular2",
-    "webpack",
-    "<%= projectName %>"
+    "webpack"
   ],
-  "author": "<%= author %>",
+  "author": "yanmeng@hujiang.com",
   "license": "MIT",
   "dependencies": {
     "@angular/animations": "^4.0.1",

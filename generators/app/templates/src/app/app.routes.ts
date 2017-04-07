@@ -3,7 +3,7 @@
  */
 // import {Routes} from '@angular/router';
 import { HomeComponent, DetailComponent } from './todo';
-import { Routes } from "@angular/router";
+import { Routes } from "@angular/router/src";
 export const routes: Routes = [ // Routes类型的数组
   {
     path     : 'todo/home',
